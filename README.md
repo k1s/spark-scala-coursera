@@ -1,1 +1,1 @@
-# spark-scala-coursera
+https://www.coursera.org/learn/scala-spark-big-data/
